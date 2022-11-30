@@ -36,8 +36,14 @@ body{
     font-weight: 600;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 2%;
     color: var(--navy-blue);
+}
+.nav-item:hover
+.nav-item:focus{
+color:var(--slate)
+}
+.nav-item:active{
+color:var(--iris)
 }
 .main-title{
     font-family: 'Roboto';
@@ -45,7 +51,6 @@ body{
     font-weight: 600;
     font-size: 56px;
     line-height: 60px;
-    letter-spacing: 2%;
     color: #FFFFFF;
     background-color: #2E2F42;
 }
@@ -83,7 +88,6 @@ body{
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
-    letter-spacing: 2%;
     color: var(--navy-blue);
 }
 .section-title{
@@ -93,7 +97,6 @@ body{
     font-size: 36px;
     line-height: 40px;
     text-align: center;
-    letter-spacing: 2%;
     text-transform: capitalize;
     color: var(--navy-blue);
 }
@@ -103,7 +106,6 @@ body{
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
-    letter-spacing: 2%;
     color: var(--navy-blue);
 }
 .portfolio-button{
@@ -163,7 +165,6 @@ body{
     font-style: normal;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 2%;
     color: var(--cornflower);
     background-color: var(--navy-blue);
 }
