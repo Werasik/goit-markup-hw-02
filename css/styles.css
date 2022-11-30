@@ -76,8 +76,6 @@ body{
 }
 .order-button:active{
     background: #404BBF;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
 }
 .feature-title{
     font-family: 'Roboto';
@@ -108,15 +106,35 @@ body{
     letter-spacing: 2%;
     color: var(--navy-blue);
 }
-li>button{
+.portfolio-button{
     background-color: var(--cloud);
     border: 1px solid var(--cornflower);
     border-radius: 4px;
 }
-li>button:active{
+.portfolio-button:active{
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
     border-radius: 4px;
     background-color: var(--iris);
+}
+.button-all{
+    width: 69px;
+    height: 48px;
+}
+.button-website{
+    width: 116px;
+    height: 48px;
+}
+.button-app{
+    width: 78px;
+    height: 48px;
+}
+.button-design{
+    width: 101px;
+    height: 48px;
+}
+.button-marketing{
+    width: 126px;
+    height: 48px;
 }
 .logo-footer{
     font-family: 'Raleway';
@@ -131,10 +149,10 @@ li>button:active{
 }
 .text-footer{
     font-family: 'Roboto';
-font-style: normal;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 2%;
-color: var(--cornflower);
-background-color: var(--navy-blue);
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: var(--cornflower);
+    background-color: var(--navy-blue);
 }
