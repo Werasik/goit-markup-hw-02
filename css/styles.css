@@ -136,6 +136,17 @@ body{
     width: 126px;
     height: 48px;
 }
+.picture-text{
+    color: var(--cloud)
+}
+.section-h{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: var(--navy-blue);
+}
 .logo-footer{
     font-family: 'Raleway';
     font-style: normal;
