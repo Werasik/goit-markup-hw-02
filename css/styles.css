@@ -1,10 +1,18 @@
+body{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
 .logo-header{
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 24px;
-    letter-spacing: 0.03em;
+    letter-spacing: 3%;
     text-transform: uppercase;
     color: #2E2F42;
 }
@@ -19,17 +27,8 @@
     font-weight: 600;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.02em;
+    letter-spacing: 2%;
     color: #2E2F42;
-}
-.contact-item{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #434455;
 }
 .main-title{
     font-family: 'Roboto';
@@ -37,8 +36,7 @@
     font-weight: 600;
     font-size: 56px;
     line-height: 60px;
-    text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 2%;
     color: #FFFFFF;
     background-color: #2E2F42;
 }
@@ -64,7 +62,7 @@
     font-size: 16px;
     line-height: 19px;
     align-items: center;
-    letter-spacing: 0.04em;
+    letter-spacing: 4%;
     color: #FFFFFF;
 }
 .feature-title{
@@ -73,16 +71,8 @@
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
-    letter-spacing: 0.02em;
+    letter-spacing: 2%;
     color: #2E2F42;
-}
-.feature-text{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #434455;
 }
 .section-title{
     font-family: 'Roboto';
@@ -91,7 +81,7 @@
     font-size: 36px;
     line-height: 40px;
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 2%;
     text-transform: capitalize;
     color: #2E2F42;
 }
@@ -101,7 +91,7 @@
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
-    letter-spacing: 0.02em;
+    letter-spacing: 2%;
     color: #2E2F42;
 }
 .work-position{
@@ -109,7 +99,7 @@
     font-style: normal;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.02em;
+    letter-spacing: 2%;
     color: #434455;
 }
 .logo-footer{
@@ -118,7 +108,7 @@
     font-weight: 800;
     font-size: 18px;
     line-height: 21px;
-    letter-spacing: 0.03em;
+    letter-spacing: 3%;
     text-transform: uppercase;
     color: #F4F4FD;
     background-color: #2E2F42;
@@ -128,7 +118,7 @@
 font-style: normal;
 font-size: 16px;
 line-height: 24px;
-letter-spacing: 0.02em;
+letter-spacing: 2%;
 color: #E7E9FC;
 background-color:#2E2F42;
 }
